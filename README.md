@@ -1,2 +1,2 @@
 # MachineLearning-Assignment
-AIT Machine Learning Assignment 
+Aung Kaung Myat - st125740
